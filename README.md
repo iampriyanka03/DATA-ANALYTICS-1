@@ -1,7 +1,4 @@
-# DATA-ANALYTICS-1
-
-
-OPPORTUNITY ANALYSISOpportunity Analysis On Food And Beverage Services
+# Opportunity Analysis On Food And Beverage Services
 
 Developed an engaging dashboard for visualizing sales opportunities across three distinct business segments for an F&B manufacturer.
 
